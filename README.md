@@ -20,5 +20,8 @@
 
 - Java - Java프로그램 작성<br>
   https://chat.openai.com/g/g-czBz1l3aY-java
+  
+- Image 2 image - image valiavel<br>
+  https://chat.openai.com/g/g-x2X1uC2lW-image-2-image
 
   
